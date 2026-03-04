@@ -1,3 +1,5 @@
-console.log("Git + SSH funcionando 🚀");
-console.log("Git + SSH funcionando 🚀");
-console.log("Git + SSH funcionando 🚀");
+function soma(a, b) {
+  return a + b;
+}
+
+console.log("2 + 2 =", soma(2,2));
